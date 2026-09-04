@@ -1,6 +1,4 @@
-# site-para-ana
-namoro
-<!DOCTYPE html>
+Para uma pessoa queriada
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
@@ -48,20 +46,20 @@ namoro
     <h1>Tenho uma pergunta...</h1>
     <p>
       Desde que você apareceu, meus dias ficaram mais bonitos,
-      meus sorrisos mais fáceis e meu coração encontrou um motivo a mais para bater forte.
+      meus dia começou a ficar melhor 
     </p>
     <div class="question">Quer namorar comigo? 🥰</div>
     <div class="buttons">
       <button id="yes">SIM! ❤️</button>
       <button id="no">Não 😅</button>
     </div>
-    <div class="hint">P.S.: pense com carinho antes de responder 👀</div>
+    <div class="hint"> pense com carinho antes de responder 👀</div>
   </div>
 
   <div class="success">
     <div class="heart">💖</div>
     <h2>EU SABIA! 🥹</h2>
-    <p>Agora oficialmente começou a nossa história. ❤️<br><br>
+    <p>Agora oficialmente você e so minha agora kkkkk ❤️<br><br>
     Prometo fazer o possível para transformar cada dia em uma lembrança bonita.</p>
     <div style="font-size:42px;margin-top:22px">💐💍✨🥰</div>
   </div>
